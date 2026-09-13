@@ -48,3 +48,10 @@ betterttv.net
 localizeapi.com
 klipy.com
 live-video.net
+live.wardogs.bulkhead.pragmaengine.com
+firstlook.gg
+api.epicgames.dev
+live.wardogs.bulkhead.pragmaengine.com
+api.epicgames.dev
+pragmaengine.com
+:/pragmaengine.com
